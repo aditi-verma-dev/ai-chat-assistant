@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:8080/api/chat";
+const API_URL = "http://ai-chat-assistant-u3xt.onrender.com/api/chat";
 
 const starterQuestions = [
   "Explain Java OOP with simple examples",
